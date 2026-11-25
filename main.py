@@ -1,6 +1,7 @@
 """Entry for make.fun bounty: One-Line Robot Wedding Vows.
 
-Writes one line of wedding vows for a robot couple to entry.txt.
+Writes one line of wedding vows for a robot couple to entry.txt,
+sworn in the language of reboots and search histories.
 """
 
 import os
